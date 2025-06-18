@@ -1,0 +1,10 @@
+[core]
+    remote = newstorefordvcmlops
+['remote "dvcstore"']
+    url = s3://mlops-s3-project
+['remote "mlopsstore"']
+    url = s3://mlops-s3-project
+['remote "newstorefordvc"']
+    url = s3://mlops-s3-project
+['remote "newstorefordvcmlops"']
+    url = s3://mlops-s3-project
